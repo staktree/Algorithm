@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  https://www.acmicpc.net/problem/11724
 
@@ -13,6 +14,8 @@
  다시 방문되지 않은 노드부터 이를 반복한다.
  반복 횟수를 출력하면 정답이다.
  */
+=======
+>>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
 #pragma warning(disable: 4996)
 #include <iostream>
 #include <cstdio>
@@ -90,4 +93,8 @@ int main()
     cout << cnt << endl;
     
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
