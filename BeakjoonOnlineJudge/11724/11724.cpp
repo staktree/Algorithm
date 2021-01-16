@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 /*
  https://www.acmicpc.net/problem/11724
-
  BOJ 11724번 연결 요소의 개수
-
  (1) 접근
  연결 요소란 그래프에서 연결된 노드끼리 묶었을 때 묶음의 개수이다.
  예제 입력1을 예로 들면
@@ -14,8 +11,6 @@
  다시 방문되지 않은 노드부터 이를 반복한다.
  반복 횟수를 출력하면 정답이다.
  */
-=======
->>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
 #pragma warning(disable: 4996)
 #include <iostream>
 #include <cstdio>
@@ -93,8 +88,4 @@ int main()
     cout << cnt << endl;
     
     return 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
