@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 /*
- https://www.acmicpc.net/problem/1037
+https://www.acmicpc.net/problem/1037
 BOJ 1037번 약수
 
 (1) 접근
@@ -18,8 +17,6 @@ vector.front() : 벡터의 맨 처음 값
 vector.back() : 벡터의 마지막 값
 vector.erase(지우고 싶은 주소) : 해당 주소의 값을 삭제
  */
-=======
->>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
 #include <iostream>
 #include <cstdio>
 #include <vector>
@@ -43,8 +40,4 @@ int main()
 
     cout << realDivisor.front() * realDivisor.back() << endl;
     return 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d9c1c460a5c6cf270987ec6c0269acf2aff5d318
