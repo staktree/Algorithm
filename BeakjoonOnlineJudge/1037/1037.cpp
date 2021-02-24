@@ -34,7 +34,7 @@ int main()
     {
         int temp;
         cin >> temp;
-        realDivisor.push_back(temp);
+        realDivisor.push_back(temp); 
     }
     sort(realDivisor.begin(), realDivisor.end());
 
