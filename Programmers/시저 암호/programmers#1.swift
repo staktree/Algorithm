@@ -7,7 +7,7 @@ UnicodeScalar를 사용해야한다.
 이렇게 변환된 문자의 아스키코드를 다시 문자열로 변환하여 정답 문자열에 추가한다.
 
 다른 사람들의 풀이를 보니 map 함수를 사용하는 경우가 많았다. 
-map에 대해서도 공부해보기로 하였다.
+map에 대해서도 공부해보기로 하였다. 
 */
 func solution(_ s:String, _ n:Int) -> String {
     var answer : String
